@@ -1,0 +1,12 @@
+C:\Users\User.User-PC\Desktop\Projeto01\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\User.User-PC\Desktop\Projeto01\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\User.User-PC\Desktop\Projeto01\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\User.User-PC\Desktop\Projeto01\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+C:\Users\User.User-PC\Desktop\Projeto01\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\User.User-PC\Desktop\Projeto01\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+\\USER-PC\Users\User.User-PC\Desktop\Projeto01\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+\\USER-PC\Users\User.User-PC\Desktop\Projeto01\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+\\USER-PC\Users\User.User-PC\Desktop\Projeto01\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\User.User-PC\Desktop\Projeto01\exercicio_POO\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\User.User-PC\Desktop\Projeto01\exercicio_POO\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\User.User-PC\Desktop\Projeto01\exercicio_POO\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

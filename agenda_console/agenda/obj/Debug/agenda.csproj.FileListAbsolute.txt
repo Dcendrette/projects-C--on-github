@@ -1,0 +1,9 @@
+C:\Users\User.User-PC\Desktop\Projeto01\agenda\agenda\bin\Debug\agenda.exe.config
+C:\Users\User.User-PC\Desktop\Projeto01\agenda\agenda\bin\Debug\agenda.exe
+C:\Users\User.User-PC\Desktop\Projeto01\agenda\agenda\bin\Debug\agenda.pdb
+C:\Users\User.User-PC\Desktop\Projeto01\agenda\agenda\obj\Debug\agenda.csprojResolveAssemblyReference.cache
+C:\Users\User.User-PC\Desktop\Projeto01\agenda\agenda\obj\Debug\agenda.exe
+C:\Users\User.User-PC\Desktop\Projeto01\agenda\agenda\obj\Debug\agenda.pdb
+\\USER-PC\Users\User.User-PC\Desktop\Projeto01\agenda\agenda\bin\Debug\agenda.exe.config
+\\USER-PC\Users\User.User-PC\Desktop\Projeto01\agenda\agenda\obj\Debug\agenda.exe
+\\USER-PC\Users\User.User-PC\Desktop\Projeto01\agenda\agenda\obj\Debug\agenda.pdb

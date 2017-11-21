@@ -1,0 +1,9 @@
+C:\Users\User.User-PC\Desktop\Projeto01\Calculadora POO\Calculadora POO\bin\Debug\Calculadora POO.exe.config
+C:\Users\User.User-PC\Desktop\Projeto01\Calculadora POO\Calculadora POO\bin\Debug\Calculadora POO.exe
+C:\Users\User.User-PC\Desktop\Projeto01\Calculadora POO\Calculadora POO\bin\Debug\Calculadora POO.pdb
+C:\Users\User.User-PC\Desktop\Projeto01\Calculadora POO\Calculadora POO\obj\Debug\Calculadora POO.csprojResolveAssemblyReference.cache
+C:\Users\User.User-PC\Desktop\Projeto01\Calculadora POO\Calculadora POO\obj\Debug\Calculadora_POO.Calculadora.resources
+C:\Users\User.User-PC\Desktop\Projeto01\Calculadora POO\Calculadora POO\obj\Debug\Calculadora_POO.Properties.Resources.resources
+C:\Users\User.User-PC\Desktop\Projeto01\Calculadora POO\Calculadora POO\obj\Debug\Calculadora POO.csproj.GenerateResource.Cache
+C:\Users\User.User-PC\Desktop\Projeto01\Calculadora POO\Calculadora POO\obj\Debug\Calculadora POO.exe
+C:\Users\User.User-PC\Desktop\Projeto01\Calculadora POO\Calculadora POO\obj\Debug\Calculadora POO.pdb

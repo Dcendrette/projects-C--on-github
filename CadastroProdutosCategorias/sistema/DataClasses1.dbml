@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="db_sistema" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.\SQLEXPRESS_DAN;Initial Catalog=db_sistema;Integrated Security=True" SettingsObjectName="sistema.Properties.Settings" SettingsPropertyName="db_sistemaConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.tb_categoria" Member="tb_categorias">
+    <Type Name="tb_categoria">
+      <Column Name="id_categoria" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="desc_categoria" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="tb_categoria_tb_categoria" Member="tb_categoria2" ThisKey="id_categoria" OtherKey="id_categoria" Type="tb_categoria" Cardinality="One" />
+      <Association Name="tb_categoria_tb_produto" Member="tb_produtos" ThisKey="id_categoria" OtherKey="id_categoria" Type="tb_produto" />
+      <Association Name="tb_categoria_tb_categoria" Member="tb_categoria1" ThisKey="id_categoria" OtherKey="id_categoria" Type="tb_categoria" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tb_produto" Member="tb_produtos">
+    <Type Name="tb_produto">
+      <Column Name="id_produto" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="desc_produto" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="valor" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="id_categoria" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="tb_categoria_tb_produto" Member="tb_categoria" ThisKey="id_categoria" OtherKey="id_categoria" Type="tb_categoria" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

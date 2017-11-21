@@ -1,0 +1,9 @@
+C:\Users\User.User-PC\Desktop\Projeto01\ComunicacaoSql\ComunicacaoSql\bin\Debug\ComunicacaoSql.exe.config
+C:\Users\User.User-PC\Desktop\Projeto01\ComunicacaoSql\ComunicacaoSql\bin\Debug\ComunicacaoSql.exe
+C:\Users\User.User-PC\Desktop\Projeto01\ComunicacaoSql\ComunicacaoSql\bin\Debug\ComunicacaoSql.pdb
+C:\Users\User.User-PC\Desktop\Projeto01\ComunicacaoSql\ComunicacaoSql\obj\Debug\ComunicacaoSql.csprojResolveAssemblyReference.cache
+C:\Users\User.User-PC\Desktop\Projeto01\ComunicacaoSql\ComunicacaoSql\obj\Debug\ComunicacaoSql.Form1.resources
+C:\Users\User.User-PC\Desktop\Projeto01\ComunicacaoSql\ComunicacaoSql\obj\Debug\ComunicacaoSql.Properties.Resources.resources
+C:\Users\User.User-PC\Desktop\Projeto01\ComunicacaoSql\ComunicacaoSql\obj\Debug\ComunicacaoSql.csproj.GenerateResource.Cache
+C:\Users\User.User-PC\Desktop\Projeto01\ComunicacaoSql\ComunicacaoSql\obj\Debug\ComunicacaoSql.exe
+C:\Users\User.User-PC\Desktop\Projeto01\ComunicacaoSql\ComunicacaoSql\obj\Debug\ComunicacaoSql.pdb

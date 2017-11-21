@@ -1,0 +1,6 @@
+C:\Users\User.User-PC\Desktop\Projeto01\MediaAluno\MediaAluno\bin\Debug\MediaAluno.exe.config
+C:\Users\User.User-PC\Desktop\Projeto01\MediaAluno\MediaAluno\obj\Debug\MediaAluno.csprojResolveAssemblyReference.cache
+C:\Users\User.User-PC\Desktop\Projeto01\MediaAluno\MediaAluno\bin\Debug\MediaAluno.exe
+C:\Users\User.User-PC\Desktop\Projeto01\MediaAluno\MediaAluno\bin\Debug\MediaAluno.pdb
+C:\Users\User.User-PC\Desktop\Projeto01\MediaAluno\MediaAluno\obj\Debug\MediaAluno.exe
+C:\Users\User.User-PC\Desktop\Projeto01\MediaAluno\MediaAluno\obj\Debug\MediaAluno.pdb

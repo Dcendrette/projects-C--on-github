@@ -1,0 +1,12 @@
+C:\Users\User.User-PC\Desktop\Projeto01\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\User.User-PC\Desktop\Projeto01\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\User.User-PC\Desktop\Projeto01\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\User.User-PC\Desktop\Projeto01\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+C:\Users\User.User-PC\Desktop\Projeto01\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\User.User-PC\Desktop\Projeto01\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+\\USER-PC\Users\User.User-PC\Desktop\Projeto01\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+\\USER-PC\Users\User.User-PC\Desktop\Projeto01\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+\\USER-PC\Users\User.User-PC\Desktop\Projeto01\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+\\USER-PC\Users\User.User-PC\Desktop\Projeto01\Verifica_se_triangulo\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+\\USER-PC\Users\User.User-PC\Desktop\Projeto01\Verifica_se_triangulo\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+\\USER-PC\Users\User.User-PC\Desktop\Projeto01\Verifica_se_triangulo\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb

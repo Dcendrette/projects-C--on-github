@@ -1,0 +1,6 @@
+C:\Users\User.User-PC\Desktop\Projeto01\proj01\sistema\bin\Debug\sistema.dll.config
+C:\Users\User.User-PC\Desktop\Projeto01\proj01\sistema\bin\Debug\sistema.dll
+C:\Users\User.User-PC\Desktop\Projeto01\proj01\sistema\bin\Debug\sistema.pdb
+C:\Users\User.User-PC\Desktop\Projeto01\proj01\sistema\obj\Debug\SistemaVendas.csprojResolveAssemblyReference.cache
+C:\Users\User.User-PC\Desktop\Projeto01\proj01\sistema\obj\Debug\sistema.dll
+C:\Users\User.User-PC\Desktop\Projeto01\proj01\sistema\obj\Debug\sistema.pdb

@@ -1,0 +1,9 @@
+C:\Users\User.User-PC\Desktop\Projeto01\Calculadora_Simples\Calculadora_Simples\bin\Debug\Calculadora_Simples.exe.config
+C:\Users\User.User-PC\Desktop\Projeto01\Calculadora_Simples\Calculadora_Simples\bin\Debug\Calculadora_Simples.exe
+C:\Users\User.User-PC\Desktop\Projeto01\Calculadora_Simples\Calculadora_Simples\bin\Debug\Calculadora_Simples.pdb
+C:\Users\User.User-PC\Desktop\Projeto01\Calculadora_Simples\Calculadora_Simples\obj\Debug\Calculadora_Simples.csprojResolveAssemblyReference.cache
+C:\Users\User.User-PC\Desktop\Projeto01\Calculadora_Simples\Calculadora_Simples\obj\Debug\Calculadora_Simples.Calculadora.resources
+C:\Users\User.User-PC\Desktop\Projeto01\Calculadora_Simples\Calculadora_Simples\obj\Debug\Calculadora_Simples.Properties.Resources.resources
+C:\Users\User.User-PC\Desktop\Projeto01\Calculadora_Simples\Calculadora_Simples\obj\Debug\Calculadora_Simples.csproj.GenerateResource.Cache
+C:\Users\User.User-PC\Desktop\Projeto01\Calculadora_Simples\Calculadora_Simples\obj\Debug\Calculadora_Simples.exe
+C:\Users\User.User-PC\Desktop\Projeto01\Calculadora_Simples\Calculadora_Simples\obj\Debug\Calculadora_Simples.pdb

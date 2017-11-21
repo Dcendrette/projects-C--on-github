@@ -1,0 +1,17 @@
+C:\Users\User.User-PC\Desktop\Projeto01\proj01\subproj01\bin\Debug\subproj01.exe.config
+C:\Users\User.User-PC\Desktop\Projeto01\proj01\subproj01\bin\Debug\subproj01.exe
+C:\Users\User.User-PC\Desktop\Projeto01\proj01\subproj01\bin\Debug\subproj01.pdb
+C:\Users\User.User-PC\Desktop\Projeto01\proj01\subproj01\obj\Debug\subproj01.csprojResolveAssemblyReference.cache
+C:\Users\User.User-PC\Desktop\Projeto01\proj01\subproj01\obj\Debug\subproj01.Properties.Resources.resources
+C:\Users\User.User-PC\Desktop\Projeto01\proj01\subproj01\obj\Debug\subproj01.csproj.GenerateResource.Cache
+C:\Users\User.User-PC\Desktop\Projeto01\proj01\subproj01\obj\Debug\subproj01.exe
+C:\Users\User.User-PC\Desktop\Projeto01\proj01\subproj01\obj\Debug\subproj01.pdb
+C:\Users\User.User-PC\Desktop\Projeto01\proj01\subproj01\obj\Debug\subproj01.Cadastros.resources
+C:\Users\User.User-PC\Desktop\Projeto01\proj01\subproj01\obj\Debug\subproj01.Form_produtos.resources
+C:\Users\User.User-PC\Desktop\Projeto01\proj01\subproj01\obj\Debug\subproj01.Form_categorias.resources
+\\USER-PC\Users\User.User-PC\Desktop\Projeto01\proj01\subproj01\bin\Debug\subproj01.exe.config
+\\USER-PC\Users\User.User-PC\Desktop\Projeto01\proj01\subproj01\obj\Debug\subproj01.exe
+\\USER-PC\Users\User.User-PC\Desktop\Projeto01\proj01\subproj01\obj\Debug\subproj01.pdb
+\\USER-PC\Users\User.User-PC\Desktop\Projeto01\CadastroProdutosCategorias\subproj01\bin\Debug\subproj01.exe.config
+\\USER-PC\Users\User.User-PC\Desktop\Projeto01\CadastroProdutosCategorias\subproj01\obj\Debug\subproj01.exe
+\\USER-PC\Users\User.User-PC\Desktop\Projeto01\CadastroProdutosCategorias\subproj01\obj\Debug\subproj01.pdb

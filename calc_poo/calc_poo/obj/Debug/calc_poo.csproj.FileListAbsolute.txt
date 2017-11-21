@@ -1,0 +1,9 @@
+C:\Users\User.User-PC\Desktop\Projeto01\calc_poo\calc_poo\bin\Debug\calc_poo.exe.config
+C:\Users\User.User-PC\Desktop\Projeto01\calc_poo\calc_poo\bin\Debug\calc_poo.exe
+C:\Users\User.User-PC\Desktop\Projeto01\calc_poo\calc_poo\bin\Debug\calc_poo.pdb
+C:\Users\User.User-PC\Desktop\Projeto01\calc_poo\calc_poo\obj\Debug\calc_poo.Form1.resources
+C:\Users\User.User-PC\Desktop\Projeto01\calc_poo\calc_poo\obj\Debug\calc_poo.Properties.Resources.resources
+C:\Users\User.User-PC\Desktop\Projeto01\calc_poo\calc_poo\obj\Debug\calc_poo.csproj.GenerateResource.Cache
+C:\Users\User.User-PC\Desktop\Projeto01\calc_poo\calc_poo\obj\Debug\calc_poo.exe
+C:\Users\User.User-PC\Desktop\Projeto01\calc_poo\calc_poo\obj\Debug\calc_poo.pdb
+C:\Users\User.User-PC\Desktop\Projeto01\calc_poo\calc_poo\obj\Debug\calc_poo.csprojResolveAssemblyReference.cache

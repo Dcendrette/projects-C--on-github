@@ -1,0 +1,12 @@
+C:\Users\User.User-PC\Desktop\Projeto01\teste_db\teste_db\bin\Debug\teste_db.exe.config
+C:\Users\User.User-PC\Desktop\Projeto01\teste_db\teste_db\bin\Debug\teste_db.exe
+C:\Users\User.User-PC\Desktop\Projeto01\teste_db\teste_db\bin\Debug\teste_db.pdb
+C:\Users\User.User-PC\Desktop\Projeto01\teste_db\teste_db\obj\Debug\teste_db.csprojResolveAssemblyReference.cache
+C:\Users\User.User-PC\Desktop\Projeto01\teste_db\teste_db\obj\Debug\teste_db.Properties.Resources.resources
+C:\Users\User.User-PC\Desktop\Projeto01\teste_db\teste_db\obj\Debug\teste_db.csproj.GenerateResource.Cache
+C:\Users\User.User-PC\Desktop\Projeto01\teste_db\teste_db\obj\Debug\teste_db.exe
+C:\Users\User.User-PC\Desktop\Projeto01\teste_db\teste_db\obj\Debug\teste_db.pdb
+C:\Users\User.User-PC\Desktop\Projeto01\teste_db\teste_db\obj\Debug\teste_db.Form1.resources
+\\USER-PC\Users\User.User-PC\Desktop\Projeto01\teste_db\teste_db\bin\Debug\teste_db.exe.config
+\\USER-PC\Users\User.User-PC\Desktop\Projeto01\teste_db\teste_db\obj\Debug\teste_db.exe
+\\USER-PC\Users\User.User-PC\Desktop\Projeto01\teste_db\teste_db\obj\Debug\teste_db.pdb
